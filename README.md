@@ -16,8 +16,7 @@
 - MySQL
 - Socket.io
 
-## DFD Diagrams
-Available in /diagrams folder
+
 
 ## Installation
 
